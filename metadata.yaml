@@ -1,5 +1,8 @@
 _repo: Umwege_60437
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60437-h/images/cover.jpg
 creator:
   author:
     agent_name: Hesse, Hermann
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hermann_Hesse
     - https://de.wikipedia.org/wiki/Hermann_Hesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60437#Umwege
 gutenberg_issued: '2019-10-06'
 gutenberg_type: Text
 identifiers:
